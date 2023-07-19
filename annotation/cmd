@@ -1,0 +1,1 @@
+bash run_script.sh data/rfam_out.bed data/rnammer_out.bed data/trnascan_out.bed
